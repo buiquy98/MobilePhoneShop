@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXeNO+VmveW4aWofMP6JnJ4Z9AnBWt0b6q96huc9w2N+afe1Aa2OKAvy6ZfcF7uz4PcLRT95SxkekVuqkw7TXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quy_d\\source\\repos\\MobilePhoneShop\\MobilePhoneShop\\MobilePhoneShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quy_d\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\quy_d\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\quy_d\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\quy_d\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\quy_d\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\quy_d\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
